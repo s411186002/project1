@@ -3,6 +3,7 @@
 #include <string.h>
 
 int main(){
-    printf("Hello world!");
+    printf("Hello world!\n");
+    printf("411186002");
     return 0;
 }
